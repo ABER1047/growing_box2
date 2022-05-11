@@ -1,0 +1,10 @@
+action_set_relative(1);
+action_draw_sprite(sprite276, 0, 0, -1);
+action_font(font1, 0);
+action_draw_text("18250", 5, 16);
+action_color(0);
+action_font(font2, 0);
+action_draw_text("대포박스의 HP를 1만큼 수리합니다.(수리확률 낮음)", 5, 45);
+action_draw_text("참고로 대포박스 HP는 최대 20입니다. 20이후로는", 5, 65);
+action_draw_text("보석, 돈만 차감되니 이점 알아주시기를 바랍니다.", 5, 85);
+action_set_relative(0);

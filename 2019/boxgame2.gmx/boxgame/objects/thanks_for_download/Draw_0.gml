@@ -1,0 +1,11 @@
+action_set_relative(1);
+action_draw_sprite(sprite277, 0, 0, -1);
+action_font(font2, 1);
+action_color(0);
+action_draw_text("박스키우기2를 구매해주셔서 감사합니다.", 0, -30);
+action_draw_text("유료버전을 구매하셨기때문에, 유료전용 컨텐츠이용가능하며, 전용패키지를 획득하셨습니다.", 0, -10);
+action_draw_text("유료전용 패키지 상품은 이러합니다. (200보석 + 블럭박스 + 17000원 + 대포박스)", 0, 20);
+action_draw_text("또한 유료전용 컨텐츠는 이러합니다. (블럭박스키우기, 보스시스템, 전용 뽑기시스템, ", 0, 40);
+action_draw_text("천사모찌키우기, 대포모찌키우기)", 0, 60);
+action_draw_text("감사합니다.", 0, 80);
+action_set_relative(0);

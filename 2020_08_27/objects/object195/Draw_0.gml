@@ -1,0 +1,11 @@
+action_set_relative(1);
+action_draw_sprite(sprite230, 0, 0, -1);
+action_font(font1, 0);
+action_draw_text("120000000", 5, 16);
+action_color(0);
+action_font(font2, 0);
+action_draw_text("1억2천만원을 광부박스로 바꿉니다.", 5, 45);
+action_draw_text("광부박스는 20초당 한번씩 일정확률로", 5, 65);
+action_draw_text("다이아를 생산합니다.(1개)", 5, 85);
+action_draw_text("또한 박스찢어짐 효과를 무시합니다.", 5, 105);
+action_set_relative(0);

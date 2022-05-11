@@ -1,0 +1,1 @@
+global.dogams = 24;

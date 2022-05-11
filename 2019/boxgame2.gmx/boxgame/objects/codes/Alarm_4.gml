@@ -1,0 +1,1 @@
+global.vidiocooltime = 0;

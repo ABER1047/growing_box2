@@ -1,0 +1,1 @@
+global.vidio = 0;

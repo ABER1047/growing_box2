@@ -1,0 +1,12 @@
+action_set_relative(1);
+action_draw_sprite(sprite173, 0, 0, -1);
+action_color(0);
+action_font(font2, 0);
+action_draw_text("신규이벤트!", 183, -128);
+action_draw_text("플레이어분들께서 총 77시간동안 박스키우기를 플레이해주시면", 0, 0);
+action_draw_text("보석 600개를 선물로드립니다. 추가로 플레이시간이 총", 0, 20);
+action_draw_text("123시간이 되면 보석 600+200개를 쏩니다!(참고 : 플레이시간은", 0, 40);
+action_draw_text(" 혼자채우는것이 아닌 플레이어 전체가 체우는것이니 걱정", 0, 60);
+action_draw_text("마세요)", 0, 80);
+action_draw_text("자세한건 위의 그림을 터치해주세요!", 0, 120);
+action_set_relative(0);
